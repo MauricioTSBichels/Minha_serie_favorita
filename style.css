@@ -1,0 +1,35 @@
+header{
+    display: flex;
+    padding: 10px 70px;
+    justify-content: center;   
+    font-style: normal;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    font-size: 30px;
+    background-color: black;
+}
+.sinopse{
+justify-content: flex-end;
+
+}
+._t_sinopse{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;   
+}
+.t_atores{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;    
+}
+.Rick{
+ height:200px;
+ width: 280px;
+ border-radius: 10%;
+}
+.Rick_grimes{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;     
+}
+.Temporadas{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; 
+}
+.GIF{
+    height:200px;
+    width: 280px;   
+}
